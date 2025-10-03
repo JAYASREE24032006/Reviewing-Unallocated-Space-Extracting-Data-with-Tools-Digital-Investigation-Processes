@@ -44,27 +44,9 @@ flowchart TD
 ## OUTPUT :
 Unallocated Space Analysis and Extracted Data Report
 
-<img width="935" height="744" alt="image" src="https://github.com/user-attachments/assets/4a24164b-33b3-4df9-ad49-1daabf798365" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/f3be57c3-6bb0-426b-9272-ce1551e31843" />
 
-<img width="1898" height="1132" alt="image" src="https://github.com/user-attachments/assets/7f385678-d1c1-4647-85dc-a6b1fbbb876f" />
-
-<img width="937" height="736" alt="image" src="https://github.com/user-attachments/assets/848db8f4-7a20-41f9-af51-5db25dbfa3cf" />
-
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/b8d1e6e5-8c44-45aa-9c35-1080cc926533" />
-
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/7e5ebae1-3220-48d7-9f9c-a4604580df7e" />
-
-<img width="1917" height="1199" alt="image" src="https://github.com/user-attachments/assets/917f2f54-eae9-4d60-88d0-1954839ab8ca" />
-
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6e1864c5-b13e-463e-a9aa-844fd31222f9" />
-
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/5ee5f8eb-ecd8-4762-be5a-9d98d7c90fe0" />
-
-<img width="1354" height="392" alt="image" src="https://github.com/user-attachments/assets/798c7733-d881-4494-ac9d-33297504902f" />
-
-<img width="1919" height="1050" alt="image" src="https://github.com/user-attachments/assets/86d2263d-93bf-4629-8a97-833abdf2a365" />
-
-<img width="1447" height="770" alt="image" src="https://github.com/user-attachments/assets/94724e27-356f-43d6-8d9a-58227a328eeb" />
+<img width="1920" height="1085" alt="image" src="https://github.com/user-attachments/assets/ada2a979-9bb2-4448-a5a2-fca83a74130f" />
 
 
 ## RESULT :
